@@ -1,4 +1,4 @@
-# 📚 Taller MySQL 8.0 - Solución
+#  Taller MySQL 8.0 - Solución
 
 Solución completa y resumida del taller de MySQL 8.0:
 
